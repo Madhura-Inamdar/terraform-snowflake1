@@ -1,5 +1,13 @@
 # Terraform + Snowflake
 
+## Install SnowCLI
+```
+pip install snowflake-cli-labs
+
+# Verify:
+snow --version
+```
+
 ## 1. Create an RSA key for Authentication
 ```
 $ cd ~/.ssh
